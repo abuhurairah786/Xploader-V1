@@ -96,7 +96,7 @@
     <p align="center">
 <a href='https://replit.com/@S4SalmanYt/XLICON-PAIR-CODE' target="_blank"><img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkbrown&color=darkbrown'/></a>
 
-*Upload the session file generated in the session folder. No need to do this when deploying using a panel. If connected but not responding try re-linking with another session server.*
+*Upload the session file generated in the session folder. No need to pair and upload session when deploying using a panel(strongly recommended). If connected but not responding try re-linking with another session server.*
 
 ## `DEPLOYMENTS`
 ***NB:*** *How to deploy on heroku*
