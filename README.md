@@ -148,6 +148,12 @@
 
 
 # Install Manually 👇
+
+<details close>
+<summary>Read More</summary>
+
+<br>
+
 ## `Requirements`
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
