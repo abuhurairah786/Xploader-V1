@@ -51,12 +51,11 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <!-- NB:--> 
+##NB:
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---
 ***This bot is still under development and my exhibit some errors. Please feel free to report any errors to the developers or request a feature. Stay tuned for Xploader V2 which will more optimized and fully functional***
 ##
-</details>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
