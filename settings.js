@@ -20,12 +20,12 @@ global.ytname = process.env.YT_NAME || "YT: heyits_tylor" //ur yt chanel name
 //________________________________________________________________________________________________________
 global.socialm = process.env.MEDIA || "GitHub: heyit-tylor" //ur github or insta name
 //________________________________________________________________________________________________________
-global.location = process.env.GL_INFO || "Kenya, Nairobi, Karen" //ur location
+global.location = process.env.GL_INFO || "Kenya, Nairobi, Kasarani" //ur location
 //________________________________________________________________________________________________________
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || '𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫' //ur bot name
+global.botname = process.env.BOT_NAME || '©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐕1𝐁𝐨𝐭' //ur bot name
 //________________________________________________________________________________________________________
 global.ownernumber = process.env.SUDO || '254796180105' //ur owner number
 //________________________________________________________________________________________________________
@@ -33,11 +33,11 @@ global.ownername = process.env.SUDO_NAME || 'Tylor' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@heyits_tylor"
 //________________________________________________________________________________________________________
-global.wagc = process.env.GL_PUSH || "https://www.instagram.com/heyits_tylor?igsh=YzljYTk1ODg3Zg=="
+global.wagc = process.env.GL_PUSH || "https://chat.whatsapp.com/B6Hk3829WHYChdpqnuz7bL"
 //________________________________________________________________________________________________________
 global.themeemoji = process.env.GL_EMOJI || '🏮'
 //________________________________________________________________________________________________________
-global.wm = process.env.GL_WM || "©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫-Iɴᴄ"
+global.wm = process.env.GL_WM || "©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐕1𝐁𝐨𝐭"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'wa.me/254796180105' //script link
 //________________________________________________________________________________________________________
